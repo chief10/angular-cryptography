@@ -1,4 +1,4 @@
-[Middleout Angular Cryptography](http://ngmodules.org/modules/angular-cryptography)
+[Angular Cryptography](http://ngmodules.org/modules/angular-cryptography)
 ==================
 
 AngularJS Module that integrate cryptography functionality offers from the [crypto-js](https://code.google.com/p/crypto-js/) project. Provides a simple service to encrypt and decrypt using AES.
@@ -63,10 +63,6 @@ angular.module('app').controller('ExampleController', ['$scope', '$crypto', func
 ```
 
 That's all !
-
-Issues
--------------
-- Report at the github [issue tracker](https://github.com/middleout/angular-cryptography/issues)
 
 License
 --------------
